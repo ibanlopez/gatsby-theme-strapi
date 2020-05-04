@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-theme-strapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@ibanlopez <lopez.iban@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.21.9",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "gatsby": "^2.21.9",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
